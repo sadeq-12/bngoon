@@ -1,0 +1,15 @@
+.box button{
+    margin: 200px 200px;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    border-radius:8px;
+}
+.btn:hover{
+    color: black;
+    transform: rotate(20deg);
+    transform: scale(1.5 ,1);
+    background-color:aqua;
+}
